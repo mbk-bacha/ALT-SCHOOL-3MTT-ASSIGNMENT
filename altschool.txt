@@ -1,0 +1,14 @@
+welcome to cloud computing program commands;
+
+1.alias; if you want to list all the aliases you have in your shell session,you can run the alias command without argument
+2.unalias; the unalias command aims to remove an alias from the already defined aliases.to remove the previous alias you can use "unalias ls".
+3.history; this command displays an enumerated list with the command you've used in the past.
+4.passwd; allows you to change the passwords of user accounts.
+5.which;the which command outputs the full path of shell commands.if it can't recognize the given command,it'll throw an error.
+6.wc; stands for "word count" and as the name suggests, it returns the number of words in a text file.
+7. find; the find command searches for files in a directory hierachy based on a regex expression.
+8.sed; finds,replaces,or deletes patterns in a file.
+9.ping; test network connectivity.
+10.exit; the exit command does exactly what its name suggests.with it you can end a shell session and in most cases,automatically close the terminal you're using.
+11. hostname; shows your system's hostname.
+12.netsat;show the systems networsk interfaces and their configurations.
